@@ -13,7 +13,7 @@ strategy:
       jdkVersion: "1.11"
     jdk11_windows:
       imageName: "windows-latest"
-      jdkVersion: "1.12"
+      jdkVersion: "1.10"
   maxParallel: 2
 
 pool:
